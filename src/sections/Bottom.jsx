@@ -1,5 +1,5 @@
 import React from 'react'
-import { Header, NormalFont, MiddleSection, BottomContainer, Subsection, SubHeader } from '../GlobalStyles'
+import { Header, NormalFont, MiddleSection, BottomContainer} from '../GlobalStyles'
 import dogeat from "../assets/dogeat.gif"
 import rexfood from "../assets/rexfood.png"
 const Bottom = () => {

@@ -21,15 +21,12 @@ export const MiddleSection = styled.section`
   justify-content: center;
   padding: 3% 1%;
   background-color: #F8F8F8;
-  /* margin: 3rem; */
-  /* height: 80vh; */
 `;
 
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  /* background-color: blue; */
   padding: 5rem;
 `;
 
@@ -38,7 +35,6 @@ export const MiddleContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  /* background-color: blue; */
   padding: 2% 3%
 `;
 
@@ -47,7 +43,6 @@ export const BottomContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: Center;
-  /* background-color: blue; */
   padding: 5%;
 `;
 
